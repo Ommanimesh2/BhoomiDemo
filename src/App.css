@@ -1,0 +1,11 @@
+*{
+  font-family : 'Roboto', sans-serif;
+}
+.body{
+  display: flex;
+  flex-direction: row;
+}
+.leftsidebar{
+  height: 100vh;
+  background-color: #273037;
+}
